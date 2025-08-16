@@ -119,7 +119,7 @@ local getcustomassets = {
 	['newvape/assets/new/textv4.png'] = 'rbxassetid://14368357095',
 	['newvape/assets/new/textvape.png'] = 'rbxassetid://14368358200',
 	['newvape/assets/new/utilityicon.png'] = 'rbxassetid://14368359107',
-	['newvape/assets/new/vape.png'] = 'rbxassetid://94514040825511',
+	['newvape/assets/new/vape.png'] = 'rbxassetid://132481347096285',
 	['newvape/assets/new/warning.png'] = 'rbxassetid://14368361552',
 	['newvape/assets/new/worldicon.png'] = 'rbxassetid://14368362492'
 }
